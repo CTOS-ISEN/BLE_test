@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 
 BLE_test/Debug/
+
+tp_ble/Debug/
